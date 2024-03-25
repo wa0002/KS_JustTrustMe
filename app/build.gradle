@@ -1,12 +1,12 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 30
+    compileSdkVersion 28
     buildToolsVersion "32.1-rc1"
     defaultConfig {
         applicationId 'just.trust.me'
         minSdkVersion 17
-        targetSdkVersion 30
+        targetSdkVersion 28
         versionCode 5
         versionName '.5'
              lintOptions {
